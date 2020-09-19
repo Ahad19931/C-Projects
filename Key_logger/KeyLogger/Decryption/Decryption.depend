@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587484398 source:c:\users\ahad maqsood\desktop\c++ programming\key_logger\keylogger\decryption\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+

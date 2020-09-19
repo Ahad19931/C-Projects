@@ -1,0 +1,26 @@
+[20.04.2020 16:44:22]
+Hook Started... Timer started
+[20.04.2020 22:20::3]
+Hook Started... Timer started
+
+[20.04.2020 22:20:19]
+Hook Started... Timer started
+
+[20.04.2020 23:33:54]
+Hook Started... Timer started
+
+[21.04.2020 17:53:25]
+Hook Started... Timer started
+
+[21.04.2020 17:53:58]
+<From SendMail> Return code: 7
+
+[17.06.2020 20:00:29]
+Hook Started... Timer started
+
+[17.06.2020 20:01:33]
+Mail was not sent! Error code: 3
+
+[17.06.2020 20:01:33]
+<From SendMail> Return code: 32760
+

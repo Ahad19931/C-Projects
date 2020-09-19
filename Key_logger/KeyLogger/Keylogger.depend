@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1587407505 source:c:\users\ahad maqsood\desktop\c++ programming\key_logger\keylogger\main.cpp
+	<iostream>
+	"windows.h"
+	"KeyConstants.h"
+	"Helper.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"Keybhook.h"
+
+1587387839 c:\users\ahad maqsood\desktop\c++ programming\key_logger\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1587407505 c:\users\ahad maqsood\desktop\c++ programming\key_logger\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1587407505 c:\users\ahad maqsood\desktop\c++ programming\key_logger\keylogger\base64.h
+	<vector>
+	<string>
+	<iostream>
+
+1587410233 c:\users\ahad maqsood\desktop\c++ programming\key_logger\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1587407505 c:\users\ahad maqsood\desktop\c++ programming\key_logger\keylogger\timer.h
+	<thread>
+	<chrono>
+	<functional>
+
+1587464478 c:\users\ahad maqsood\desktop\c++ programming\key_logger\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1587407502 c:\users\ahad maqsood\desktop\c++ programming\key_logger\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
